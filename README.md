@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+we help you to predict your future.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+[1]  Predicts Death.
+[2]  Predicts wealth.
+[3]  Predictions based on the machine learning.
 
 ## Getting started
 
